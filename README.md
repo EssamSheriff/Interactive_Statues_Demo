@@ -18,8 +18,8 @@ This application plays the role of a tour guide by opening a conversation with t
 2) The application is supposed to detect the statue through a mobile camera and recognize it
 3) The core objective of the application, after statue recognition, is to create an animation video of the statue representing itself.
 4) The application should help the tourist to know everything about the history of monuments and statues in an interesting way.
-5)  The application may perform some tasks of the tour guide present with the tourist who provides him with information about the antiquities.
-6)   It is possible to dispense the tour guide present with the tourist and reduce the cost for him.
+5) The application may perform some tasks of the tour guide present with the tourist who provides him with information about the antiquities.
+6) It is possible to dispense the tour guide present with the tourist and reduce the cost for him.
 
 
 ## Run and Screenshots
@@ -33,6 +33,6 @@ Check Demo Video in Project
 5) Firebase
 
 
-## You can Read Documentation or paper or poster for more information and Can Try the Application By downloading first version (Interactive Statues Apk)
+## You can Read Documentation or paper or poster for more information and Can Try the Application By downloading the first version (Interactive Statues Apk)
 
 
